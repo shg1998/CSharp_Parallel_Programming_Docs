@@ -1,0 +1,16 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\bin\Debug\net5.0\ParallelProgramming.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\bin\Debug\net5.0\ParallelProgramming.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\bin\Debug\net5.0\ParallelProgramming.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\bin\Debug\net5.0\ParallelProgramming.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\bin\Debug\net5.0\ParallelProgramming.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\bin\Debug\net5.0\ref\ParallelProgramming.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\bin\Debug\net5.0\ParallelProgramming.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.csproj.AssemblyReference.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ref\ParallelProgramming.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ParallelProgramming\obj\Debug\net5.0\ParallelProgramming.genruntimeconfig.cache

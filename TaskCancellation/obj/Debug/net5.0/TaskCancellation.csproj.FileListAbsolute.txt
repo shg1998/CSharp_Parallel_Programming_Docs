@@ -1,0 +1,16 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\bin\Debug\net5.0\TaskCancellation.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\bin\Debug\net5.0\TaskCancellation.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\bin\Debug\net5.0\TaskCancellation.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\bin\Debug\net5.0\TaskCancellation.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\bin\Debug\net5.0\TaskCancellation.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\bin\Debug\net5.0\ref\TaskCancellation.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\bin\Debug\net5.0\TaskCancellation.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.csproj.AssemblyReference.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\ref\TaskCancellation.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCancellation\obj\Debug\net5.0\TaskCancellation.genruntimeconfig.cache
