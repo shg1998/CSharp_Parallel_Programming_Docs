@@ -1,0 +1,16 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\bin\Debug\net5.0\LockRecursion.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\bin\Debug\net5.0\LockRecursion.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\bin\Debug\net5.0\LockRecursion.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\bin\Debug\net5.0\LockRecursion.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\bin\Debug\net5.0\LockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\bin\Debug\net5.0\ref\LockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\bin\Debug\net5.0\LockRecursion.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.csproj.AssemblyReference.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\ref\LockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\LockRecursion\obj\Debug\net5.0\LockRecursion.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\bin\Debug\net5.0\WaitingTask.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\bin\Debug\net5.0\WaitingTask.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\bin\Debug\net5.0\WaitingTask.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\bin\Debug\net5.0\WaitingTask.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\bin\Debug\net5.0\WaitingTask.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\bin\Debug\net5.0\ref\WaitingTask.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\bin\Debug\net5.0\WaitingTask.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.csproj.AssemblyReference.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\ref\WaitingTask.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\WaitingTask\obj\Debug\net5.0\WaitingTask.genruntimeconfig.cache

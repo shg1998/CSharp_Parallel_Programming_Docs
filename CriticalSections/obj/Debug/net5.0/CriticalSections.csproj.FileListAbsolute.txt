@@ -1,0 +1,16 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\bin\Debug\net5.0\CriticalSections.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\bin\Debug\net5.0\CriticalSections.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\bin\Debug\net5.0\CriticalSections.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\bin\Debug\net5.0\CriticalSections.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\bin\Debug\net5.0\CriticalSections.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\bin\Debug\net5.0\ref\CriticalSections.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\bin\Debug\net5.0\CriticalSections.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.csproj.AssemblyReference.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\ref\CriticalSections.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\CriticalSections\obj\Debug\net5.0\CriticalSections.genruntimeconfig.cache

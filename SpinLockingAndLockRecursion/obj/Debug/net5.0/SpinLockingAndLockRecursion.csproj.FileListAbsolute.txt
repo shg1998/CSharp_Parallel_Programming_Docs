@@ -1,0 +1,15 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\bin\Debug\net5.0\SpinLockingAndLockRecursion.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\bin\Debug\net5.0\SpinLockingAndLockRecursion.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\bin\Debug\net5.0\SpinLockingAndLockRecursion.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\bin\Debug\net5.0\SpinLockingAndLockRecursion.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\bin\Debug\net5.0\SpinLockingAndLockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\bin\Debug\net5.0\ref\SpinLockingAndLockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\bin\Debug\net5.0\SpinLockingAndLockRecursion.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLockingAndLockRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLockingAndLockRecursion.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLockingAndLockRecursion.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLockingAndLockRecursion.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLockingAndLockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\ref\SpinLockingAndLockRecursion.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLockingAndLockRecursion.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLockingAndLockRecursion.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\bin\Debug\net5.0\InterLockedOperations.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\bin\Debug\net5.0\InterLockedOperations.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\bin\Debug\net5.0\InterLockedOperations.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\bin\Debug\net5.0\InterLockedOperations.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\bin\Debug\net5.0\InterLockedOperations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\bin\Debug\net5.0\ref\InterLockedOperations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\bin\Debug\net5.0\InterLockedOperations.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\ref\InterLockedOperations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.genruntimeconfig.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\InterLockedOperations\obj\Debug\net5.0\InterLockedOperations.csproj.AssemblyReference.cache

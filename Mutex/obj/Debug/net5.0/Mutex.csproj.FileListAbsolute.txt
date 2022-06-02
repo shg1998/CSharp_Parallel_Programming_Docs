@@ -1,0 +1,16 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\bin\Debug\net5.0\Mutex.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\bin\Debug\net5.0\Mutex.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\bin\Debug\net5.0\Mutex.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\bin\Debug\net5.0\Mutex.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\bin\Debug\net5.0\Mutex.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\bin\Debug\net5.0\ref\Mutex.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\bin\Debug\net5.0\Mutex.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\ref\Mutex.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.genruntimeconfig.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\Mutex\obj\Debug\net5.0\Mutex.csproj.AssemblyReference.cache
