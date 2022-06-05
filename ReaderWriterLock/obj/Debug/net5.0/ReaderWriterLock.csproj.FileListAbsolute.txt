@@ -1,0 +1,15 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\bin\Debug\net5.0\ReaderWriterLock.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\bin\Debug\net5.0\ReaderWriterLock.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\bin\Debug\net5.0\ReaderWriterLock.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\bin\Debug\net5.0\ReaderWriterLock.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\bin\Debug\net5.0\ReaderWriterLock.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\bin\Debug\net5.0\ref\ReaderWriterLock.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\bin\Debug\net5.0\ReaderWriterLock.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ReaderWriterLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ReaderWriterLock.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ReaderWriterLock.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ReaderWriterLock.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ReaderWriterLock.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ref\ReaderWriterLock.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ReaderWriterLock.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ReaderWriterLock\obj\Debug\net5.0\ReaderWriterLock.genruntimeconfig.cache

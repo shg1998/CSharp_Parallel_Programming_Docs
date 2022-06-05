@@ -1,0 +1,15 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\bin\Debug\net5.0\ConcurrentDictionary.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\bin\Debug\net5.0\ConcurrentDictionary.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\bin\Debug\net5.0\ConcurrentDictionary.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\bin\Debug\net5.0\ConcurrentDictionary.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\bin\Debug\net5.0\ConcurrentDictionary.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\bin\Debug\net5.0\ref\ConcurrentDictionary.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\bin\Debug\net5.0\ConcurrentDictionary.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ConcurrentDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ConcurrentDictionary.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ConcurrentDictionary.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ConcurrentDictionary.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ConcurrentDictionary.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ref\ConcurrentDictionary.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ConcurrentDictionary.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\ConcurrentDictionary\obj\Debug\net5.0\ConcurrentDictionary.genruntimeconfig.cache

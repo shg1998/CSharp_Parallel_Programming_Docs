@@ -1,0 +1,15 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\bin\Debug\net5.0\TaskCoordination.ChildTasks.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\bin\Debug\net5.0\TaskCoordination.ChildTasks.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\bin\Debug\net5.0\TaskCoordination.ChildTasks.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\bin\Debug\net5.0\TaskCoordination.ChildTasks.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\bin\Debug\net5.0\TaskCoordination.ChildTasks.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\bin\Debug\net5.0\ref\TaskCoordination.ChildTasks.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\bin\Debug\net5.0\TaskCoordination.ChildTasks.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\TaskCoordination.ChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\TaskCoordination.ChildTasks.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\TaskCoordination.ChildTasks.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\TaskCoordination.ChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\TaskCoordination.ChildTasks.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\ref\TaskCoordination.ChildTasks.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\TaskCoordination.ChildTasks.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.ChildTasks\obj\Debug\net5.0\TaskCoordination.ChildTasks.genruntimeconfig.cache

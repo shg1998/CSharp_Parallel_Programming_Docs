@@ -1,0 +1,15 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\bin\Debug\net5.0\TaskCoordination.Barrier.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\bin\Debug\net5.0\TaskCoordination.Barrier.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\bin\Debug\net5.0\TaskCoordination.Barrier.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\bin\Debug\net5.0\TaskCoordination.Barrier.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\bin\Debug\net5.0\TaskCoordination.Barrier.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\bin\Debug\net5.0\ref\TaskCoordination.Barrier.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\bin\Debug\net5.0\TaskCoordination.Barrier.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\TaskCoordination.Barrier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\TaskCoordination.Barrier.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\TaskCoordination.Barrier.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\TaskCoordination.Barrier.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\TaskCoordination.Barrier.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\ref\TaskCoordination.Barrier.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\TaskCoordination.Barrier.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Barrier\obj\Debug\net5.0\TaskCoordination.Barrier.genruntimeconfig.cache

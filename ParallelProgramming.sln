@@ -7,17 +7,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelProgramming", "Para
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskCancellation", "TaskCancellation\TaskCancellation.csproj", "{F47A7AE2-F04A-42A9-85D3-1D791776080A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitingTask", "WaitingTask\WaitingTask.csproj", "{E0CC801B-CF05-4FC8-B868-F3089D12C212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitingTask", "WaitingTask\WaitingTask.csproj", "{E0CC801B-CF05-4FC8-B868-F3089D12C212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriticalSections", "CriticalSections\CriticalSections.csproj", "{188AF6B9-E39B-4DAE-BE19-A962C5FF94F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriticalSections", "CriticalSections\CriticalSections.csproj", "{188AF6B9-E39B-4DAE-BE19-A962C5FF94F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterLockedOperations", "InterLockedOperations\InterLockedOperations.csproj", "{D4545B57-CB7A-409D-978F-BC4B3367BB21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterLockedOperations", "InterLockedOperations\InterLockedOperations.csproj", "{D4545B57-CB7A-409D-978F-BC4B3367BB21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinLocking", "SpinLockingAndLockRecursion\SpinLocking.csproj", "{26A2947D-7E68-4BD3-975C-4CE2A4EC390D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpinLocking", "SpinLockingAndLockRecursion\SpinLocking.csproj", "{26A2947D-7E68-4BD3-975C-4CE2A4EC390D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockRecursion", "LockRecursion\LockRecursion.csproj", "{F6DC65D2-2F26-4DF5-A555-B7CCECEDEE2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockRecursion", "LockRecursion\LockRecursion.csproj", "{F6DC65D2-2F26-4DF5-A555-B7CCECEDEE2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutex", "Mutex\Mutex.csproj", "{55D5F2BF-A45C-4CD2-AF06-026A8E9AA8B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutex", "Mutex\Mutex.csproj", "{55D5F2BF-A45C-4CD2-AF06-026A8E9AA8B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReaderWriterLock", "ReaderWriterLock\ReaderWriterLock.csproj", "{E2ACEB30-6F61-4F41-927F-B6E30B7BE5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCoordination.Continuations", "TaskCoordination.Continuations\TaskCoordination.Continuations.csproj", "{8C61B3FA-9DE0-464B-B3DA-B22274250F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCoordination.ChildTasks", "TaskCoordination.ChildTasks\TaskCoordination.ChildTasks.csproj", "{5039A85E-9344-466E-9141-7C0413D3221C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCoordination.Barrier", "TaskCoordination.Barrier\TaskCoordination.Barrier.csproj", "{4331DC4E-8779-4DA0-B665-AA23E7ADD437}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{55D5F2BF-A45C-4CD2-AF06-026A8E9AA8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D5F2BF-A45C-4CD2-AF06-026A8E9AA8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D5F2BF-A45C-4CD2-AF06-026A8E9AA8B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2ACEB30-6F61-4F41-927F-B6E30B7BE5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2ACEB30-6F61-4F41-927F-B6E30B7BE5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2ACEB30-6F61-4F41-927F-B6E30B7BE5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2ACEB30-6F61-4F41-927F-B6E30B7BE5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C61B3FA-9DE0-464B-B3DA-B22274250F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C61B3FA-9DE0-464B-B3DA-B22274250F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C61B3FA-9DE0-464B-B3DA-B22274250F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C61B3FA-9DE0-464B-B3DA-B22274250F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5039A85E-9344-466E-9141-7C0413D3221C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5039A85E-9344-466E-9141-7C0413D3221C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5039A85E-9344-466E-9141-7C0413D3221C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5039A85E-9344-466E-9141-7C0413D3221C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4331DC4E-8779-4DA0-B665-AA23E7ADD437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4331DC4E-8779-4DA0-B665-AA23E7ADD437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4331DC4E-8779-4DA0-B665-AA23E7ADD437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4331DC4E-8779-4DA0-B665-AA23E7ADD437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

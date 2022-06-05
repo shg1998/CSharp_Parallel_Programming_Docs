@@ -1,0 +1,15 @@
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\bin\Debug\net5.0\TaskCoordination.Continuations.exe
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\bin\Debug\net5.0\TaskCoordination.Continuations.deps.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\bin\Debug\net5.0\TaskCoordination.Continuations.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\bin\Debug\net5.0\TaskCoordination.Continuations.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\bin\Debug\net5.0\TaskCoordination.Continuations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\bin\Debug\net5.0\ref\TaskCoordination.Continuations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\bin\Debug\net5.0\TaskCoordination.Continuations.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\TaskCoordination.Continuations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\TaskCoordination.Continuations.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\TaskCoordination.Continuations.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\TaskCoordination.Continuations.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\TaskCoordination.Continuations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\ref\TaskCoordination.Continuations.dll
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\TaskCoordination.Continuations.pdb
+C:\Users\m.nezhad\source\repos\ParallelProgramming\TaskCoordination.Continuations\obj\Debug\net5.0\TaskCoordination.Continuations.genruntimeconfig.cache

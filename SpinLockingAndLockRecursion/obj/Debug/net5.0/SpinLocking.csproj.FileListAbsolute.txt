@@ -13,3 +13,4 @@ C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\o
 C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\ref\SpinLocking.dll
 C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLocking.pdb
 C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLocking.genruntimeconfig.cache
+C:\Users\m.nezhad\source\repos\ParallelProgramming\SpinLockingAndLockRecursion\obj\Debug\net5.0\SpinLocking.csproj.AssemblyReference.cache
